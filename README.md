@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working as a Software Engineer at TechMahindra on website testing
+- 🌱 I’m currently learning web development using MERN stack
+
+- 📫 How to reach me: kadamrohan76@gmail.com / 7588279935
 
 <!--
 **rohankadam1395/rohankadam1395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
