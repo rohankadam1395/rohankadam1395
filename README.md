@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: kadamrohan76@gmail.com / 7588279935
 
-![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanmkadam1395)
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohankadam1395)
 <!--
 **rohankadam1395/rohankadam1395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
