@@ -6,7 +6,7 @@
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohankadam1395&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankadam1395)](https://github.com/rohankadam1395/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankadam1395&repo=ConwaysGameOfLife)](https://github.com/rohankadam1395/ConwaysGameOfLife)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankadam1395&repo=ConwaysGameOfLife)](https://github.com/rohankadam1395/ConwaysGameOfLife?show_owner=true)
 
 The status card displayed above are created using the repository https://github.com/anuraghazra/github-readme-stats
 <!--
